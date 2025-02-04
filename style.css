@@ -292,6 +292,11 @@ form button:hover {
        font-size: 1rem;
        line-height: 1.2;
    }
+    #div1  p {
+       font-size: 1rem;
+       line-height: 1.2;
+        magin : 0px 10px;
+   }
 }
 
 
